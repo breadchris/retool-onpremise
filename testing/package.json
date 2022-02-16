@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "dependencies": {
-    "@playwright/test": "^1.13.0",
+    "@playwright/test": "^1.18.0",
     "glob": "^7.1.7",
     "js-yaml": "^4.1.0",
     "slugify": "^1.6.0"
