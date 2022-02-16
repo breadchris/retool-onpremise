@@ -10,7 +10,7 @@
     "@playwright/test": "^1.13.0",
     "glob": "^7.1.7",
     "js-yaml": "^4.1.0",
-    "slugify": "^1.6.0"
+    "slugify": "^1.6.5"
   },
   "devDependencies": {},
   "scripts": {
